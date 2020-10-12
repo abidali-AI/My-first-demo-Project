@@ -1,0 +1,1 @@
+This is my second.txt file which will be pulled by SmartGit for learning purpose.
